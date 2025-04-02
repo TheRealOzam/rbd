@@ -1,2 +1,2 @@
-# rbd
-rooms bd [HUGE PROJECT]
+# EasyPlugins
+Find good plugins based on recommendations.
